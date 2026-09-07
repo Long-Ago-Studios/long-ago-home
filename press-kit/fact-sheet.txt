@@ -7,7 +7,7 @@ STUDIO
 Name:      Long Ago Studios
 Founded:   2026
 Team:      One person (Jeff Kwak)
-Contact:   hello@longagostudios.com
+Contact:   hello@long-ago.com
 
 
 PIRATE MOKU
